@@ -33,3 +33,20 @@
 |7.|Ctrl + L| Select single / multiple lines|
 |8.|Ctrl + Shift+L| Select all occurrences of current selection|
 |9.|Shift + Alt + ←| Shrink selection|
+
+## 3. File management 
+| S.N. |Key combinations   |  Function    |
+| -----|-----| ------------ | 
+|1.|Ctrl + N| New File|
+|2.|Ctrl + O| Open File|
+|3.|Ctrl + W| Close File|
+|4.|Ctrl + K Ctrl+W| Close All opened files|
+|5.|Ctrl + S |Save|
+|6.|Ctrl + Shift + S| Save As|
+|7.|Ctrl + Shift + T |Reopen closed editor|
+|8.|Ctrl + K Enter| Keep preview mode editor open|
+|9.|Ctrl + Tab |Open next file | 
+|10.|Ctrl + Shift + Tab| Open previous file|
+|11.|Ctrl + K  P |Copy path of active file|
+|12.|Ctrl + K  R| Shows active file in system's File Manager|
+|13.|Ctrl + K  O |Open active file in new vscode window|
