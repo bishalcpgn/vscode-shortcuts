@@ -50,3 +50,16 @@
 |11.|Ctrl + K  P |Copy path of active file|
 |12.|Ctrl + K  R| Shows active file in system's File Manager|
 |13.|Ctrl + K  O |Open active file in new vscode window|
+
+
+
+## 4. Terminal Shortcuts 
+| S.N. |Key combinations   |  Function    |
+| -----|-----| ------------ | 
+|1. |Ctrl + 1| Focuses on workspace|
+|2. |Ctrl + `| Focuses on terminal|
+|3. |Ctrl + Shift + `| Create a new terminal|
+|4. |Ctrl + Shift + C |Copy selection|
+|5. |Ctrl + Shift + V| Paste into active terminal|
+|6. |↑ |Previous Commands|
+
