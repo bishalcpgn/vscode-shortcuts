@@ -28,7 +28,6 @@
 |2.|`Shift + Alt + drag mouse`| Column (box) selection|
 |3.|`Shift + Alt + →`| Expand selection|
 |4.|`Shift + Alt + ↑` / `Shift + Alt + ↓` |**Copy and paste current line above/below**|
-
 |5.|`Shift + Alt + I`| Insert cursor at end of each selected line|
 |6.|`Ctrl + U`| Undo last cursor operation|
 |7.|`Ctrl + L`| Select single / multiple lines|
